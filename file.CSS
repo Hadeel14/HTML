@@ -1,9 +1,23 @@
 
 p{
-    color: rgb(5, 66, 85);
-    background-color: white;
+    color: rgb(213, 219, 221);
+    text-align: center;
+/* background-color: white; */
 }
 
 header{
     color: teal;
 }
+nav {
+   background-color: aqua; 
+ 
+} 
+nav :hover{
+    color: rgb(19, 175, 128);
+}
+b{
+    margin: 100px;
+}
+ body{
+     background-color: cadetblue;
+ }
